@@ -66,7 +66,7 @@ road-accidents-analytics/
 
 ### **1. Clone the Repository**
 ```
-git clone https://github.com/thatquams/road-accidents-analytics.git
+git clone https://github.com/rbsfrancescogroup6/francescogroup6
 cd road-accidents-analytics
 ```
 
