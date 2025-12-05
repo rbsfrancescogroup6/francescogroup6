@@ -152,8 +152,5 @@ Best-performing model: **Support Vector Classifier (SVC)**
 
 ---
 
-## 👤 Author  
-**Abdulraheem Quwam**  
-Data Analyst | Machine Learning | Data Engineering  
-GitHub: [thatquams](https://github.com/thatquams)
+
 
